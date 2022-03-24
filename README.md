@@ -17,4 +17,4 @@ $ cd vebot
 
 $ ls
 
-$ python vebot.py
+$ python Vebot.py
